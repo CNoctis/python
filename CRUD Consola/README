@@ -1,0 +1,8 @@
+El presente programa tiene como finalizada cargar, eliminar, modificar y mostrar todos los datos ubicados en una base de datos SQL Sever.
+Requisitos para usar el presente programa son:
+
+1. Contar con una base de datos SQL Sever
+2. Instalar pyodbc
+
+El presente archivo debe ser modificado en su totalidad con los datos de su base de datos y tabla con la que trabaja para que este se ejecute exitosamente.
+Cualquier duda, consulta o sugerencia/Ayuda es totalmente bienvendida.
